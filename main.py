@@ -22,7 +22,7 @@ class PDF(FPDF):
 
 def main():
     st.title("AI-Powered Resume Builder")
-    st.image('img.png', caption='Resume Builder Logo', use_column_width=True)
+    st.image('img.png', use_column_width=True)
 
     # Initialize session state
     if 'personal_info' not in st.session_state:
