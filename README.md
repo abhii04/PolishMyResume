@@ -2,7 +2,7 @@
 
 # AI-Powered Resume Builder (PolishMyResume)
 
- PolishMyResume is a Streamlit application leverages the Cohere API to enhance and generate professional resumes, making it easier for users to create standout CVs. Enhance your CV and make a perfectly formatted CV  which is super ATS friendly!
+ PolishMyResume is a Streamlit application which leverages the Cohere API to enhance and generate professional resumes, making it easier for users to create standout CVs. Enhance your CV and make a perfectly formatted CV  which is super ATS friendly!
 
 ## Features
 
